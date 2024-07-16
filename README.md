@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/weather-dashboard.git
+    git clone https://github.com/Shreyas802/weather-dashboard.git
     ```
 
 2. **Navigate to the project directory:**
